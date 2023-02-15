@@ -3,5 +3,5 @@ This is the PyTorch implementation of our paper "OAMatcher: An Overlapping Areas
 
 
 A qualitative matching example in real scenes:
-![real_scene](https://github.com/DK-HU/OAMatcher/tree/main/assert/real_scene.png)
+![real_scene](https://github.com/DK-HU/OAMatcher/tree/main/asset/real_scene.jpg)
 
