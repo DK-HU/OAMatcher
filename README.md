@@ -7,4 +7,4 @@ A qualitative matching example in real scene:
 ![real_scene](https://github.com/DK-HU/OAMatcher/blob/main/asset/real_scene.jpg)
 
 
-''At present, we have encountered some problems during the submission process of the paper.''
+At present, we have encountered some problems when submitting our paper to the journal. We plan to open the source code when the paper is successfully submitted and the first review returns. It may takes some time. Please wait patiently. (>_<)
