@@ -7,4 +7,4 @@ A qualitative matching example in real scene:
 ![real_scene](https://github.com/DK-HU/OAMatcher/blob/main/asset/real_scene.jpg)
 
 
-We plan to open the source code when the paper is successfully submitted and the first review returns. It may takes some time. Please wait patiently.
+We plan to open the source code when the first review returns. It may takes some time. Please wait patiently.
